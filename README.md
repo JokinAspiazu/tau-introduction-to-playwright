@@ -1,3 +1,12 @@
+# Renfe example
+
+Hello! This is a fork of the TAU Playwright introduction course.
+In Tests folder, you will find three tests, one to check site is up, with Renfe, you never know
+and then two tests, one trying to get a ticket from Valencia to Bilbao, and a second one using POM
+
+Enjoy!
+Jokin.
+
 # Introduction to Playwright
 
 Hi 👋🏽!
