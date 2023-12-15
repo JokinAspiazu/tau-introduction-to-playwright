@@ -7,6 +7,9 @@ and then two tests, one trying to get a ticket from Valencia to Bilbao, and a se
 Enjoy!
 Jokin.
 
+Playwright resources: https://playwrightsolutions.com/
+
+
 # Introduction to Playwright
 
 Hi 👋🏽!
